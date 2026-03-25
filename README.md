@@ -1,5 +1,5 @@
 # Aeternus-Changelogs
-Changelogs for each Omicron version, starting from Major Release V3.0
+Changelogs for each Aeternus version, starting from Major Release V3.0
 
 # Version 3.0: Released on October 20th, 2025
 - Synchronized all commands under the cogs system.
@@ -28,7 +28,7 @@ Versions prior to 3.0 are undocumented.
 - Revamped the mute command and the way it applies timeouts.
 - Reworked autorole functions.
 - Reworked the purge command and added the ability for message logging.
-- Updated the Privacy Policy and ToS of Omicron.
+- Updated the Privacy Policy and ToS of Aeternus.
 
 **Version 3.4: Released on November 11th, 2025**
 - Added the Avatar command.
@@ -55,7 +55,7 @@ Versions prior to 3.0 are undocumented.
 **Version 3.5: Released on December 9th, 2025**
 - Added full Slash Command Compatibility for all current prefixed commands.
 - ACTUALLY added legitimate functionality for User Installation Contexts.
-- Updated Omicron's Terms of Service and Privacy Policy for needed corrections and updates.
+- Updated Aeternus's Terms of Service and Privacy Policy for needed corrections and updates.
 - Added checks to certain commands that don't work properly in user contexts, and updated commands that needed it for user installation availability.
 - Optimized the code for each command.
 - Improved error handling for most commands.
