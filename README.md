@@ -96,7 +96,7 @@ Versions prior to 3.0 are undocumented.
 - The TicTacToe command was revamped to function better and had some bugs fixed.
 
 **Version 3.7: Released on ?? ??, 2026**
-
+- Added a Local and a Global Blacklist System, also known as "Aeternus Clearance 0".
 
 **Version 3.8: Released on ?? ??, 2026**
 
