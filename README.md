@@ -100,10 +100,14 @@ Versions prior to 3.0 are undocumented.
 - Tweaked slightly some commands.
 
 **Version 3.8: Released on May 1st, 2026**
-- Added a verification system.
+- Added a local verification system. Not deployed globally.
 - Fixed Status commands, Slash version, from giving a wrong RAM percentage value.
 
-**Version 3.9: Released on ?? ??, 2026**
-- Will more than likely fix User Installation Context availability.
+**Version 3.8.5: Released on May 11th, 2026**
+- Updated the EntriesHandler to allow for global usage.
+- Updated the help command, exactly the config section.
+- Updated the internal file structure as always.
+
+**Version 3.9: Released on ?? ??, 202?**
 
 # Version 4.0: Released on ?? ??, 202?
